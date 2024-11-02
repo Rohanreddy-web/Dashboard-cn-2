@@ -8,7 +8,6 @@ main{
     grid-template-columns: 1fr 5fr;
     gap: 20px;
     padding: 20px;
-    height: 100vh;
 }
 .left{
     width: 20vw;
@@ -24,6 +23,7 @@ main{
     gap: 20px;
     font-family: "Sedan", serif;
     font-style: normal;
+
 }
 #man{
     width: 100px;
